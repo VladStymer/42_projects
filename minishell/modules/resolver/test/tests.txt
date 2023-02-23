@@ -1,0 +1,4 @@
+ls
+cd
+etc
+END OF FILE

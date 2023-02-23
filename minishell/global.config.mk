@@ -1,0 +1,1 @@
+LIBS	:=	liberrors libutils libft

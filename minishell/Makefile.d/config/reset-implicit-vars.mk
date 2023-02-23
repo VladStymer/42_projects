@@ -1,0 +1,2 @@
+#undefine CC
+#undefine CFLAGS

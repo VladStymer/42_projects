@@ -1,0 +1,61 @@
+"$TEST$TEST=lol$TEST"
+"   $TEST lol $TEST"
+"$TEST$TEST$TEST"
+$TEST$TEST$TEST
+$TEST$TEST=lol$TEST""lol
+$TEST lol $TEST
+"$?TEST"
+"HELLO"'
+"$TEST'"
+"$TESY"
+$BABIBEL
+"$TEST"
+"'"
+"$=TEST"
+"$"
+$TEST $TEST
+"$1TEST"
+"$T1TEST"
+$ENV_SHOW
+$EXPORT_SHOW
+$SHELL
+"~"
+~
+~/user
+/user
+~/Users/vnicoud
+"~/user"
+"$LESS"
+"$ZSH"
+$ZSH
+'$1TEST'
+"$1TEST"'
+~bin/ls
+~/bin/ls
+~ /bin/ls
+~ lol
+"~bin/ls"
+"~/bin/ls"
+"~ /bin/ls"
+"~ lol"
+'~bin/ls'
+'~/bin/ls'
+'~ /bin/ls'
+'~ lol'
+END OF FILE
+
+
+
+//_______________TEST HAVE TO RETURN ERROR
+'$1TEST''"
+"$TEST""
+$BABIBEL
+
+
+
+$?
+//_______________IT WORK
+
+$HOME
+
+END OF FILE
