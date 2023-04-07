@@ -1,0 +1,12 @@
+obj/
+minishell
+*.swp
+*.o
+*.a
+*.env
+*.vscode
+*.DS*
+*-test
+.idea
+.vscode
+.DS_Store
